@@ -62,8 +62,6 @@ public class Exe08 {
 		
 		System.out.println("");
 		
-		
-
 	}
 
 }
