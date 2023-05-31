@@ -35,8 +35,6 @@ public class Exe05 {
 			System.out.printf("MEDIA = %.5f %n " , media);
 			
 		}
-		
-	
 
 	}
 
