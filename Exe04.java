@@ -22,8 +22,7 @@ public class Exe04 {
 	try (Scanner scan = new Scanner(System.in)) {
 		int n1, n2;
 		int resultado;
-		
-		
+			
 		System.out.println("Digite um número");
 		n1 = scan.nextInt();
 		
@@ -31,19 +30,11 @@ public class Exe04 {
 		System.out.println("Digite um segundo número");
 		n2 = scan.nextInt();
 		
-		
-   
 		resultado = (n1 * n2);
-		
 		
 		System.out.println("PROD = " + resultado);
 	}
-		
-	
-		
-	
-		
-	
-	}
+				
+   }
 
 }
